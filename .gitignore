@@ -20,4 +20,5 @@ target/
 .project
 .update-config
 *.iml
+
 local.properties
