@@ -8,6 +8,7 @@
 .settings/
 appcompat_v7/
 bin/
+#ddddd
 build/
 gen/
 gradle/
