@@ -5,7 +5,6 @@
 /springmvc-03-annotation/target/
 .gradle/
 .idea/
-
 .settings/
 appcompat_v7/
 bin/
